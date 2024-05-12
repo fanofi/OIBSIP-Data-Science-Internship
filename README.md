@@ -4,7 +4,7 @@
 Welcome to the Oasis Infobyte Internship Project repository! This project is part of my one month internship journey with Oasis Infobyte, where I had the opportunity to work on various data science and machine learning tasks.
 
 ## Overview
-During the internship, I worked on several real-world projects that allowed me to apply my knowledge of data science concepts and techniques to solve practical problems faced by the company. From building predictive models to analyzing large datasets, each project provided valuable learning experiences and insights into the field of data science.
+During the internship, I worked on several real-world projects that allowed me to apply my knowledge of data science concepts and techniques to solve practical problems. From building predictive models to analyzing large datasets, each project provided valuable learning experiences and insights into the field of data science.
 
 ## Tasks
 - **Project 1: Iris Flower Classification**
